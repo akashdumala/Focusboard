@@ -55,20 +55,19 @@ screenshots/    Desktop and mobile submission screenshots
 
 ## Submission links
 
-- Hosted application: [FocusBoard on Vercel](https://instant-cedar-nucc77g.tmp.now) â€” temporary anonymous deployment. Claim it in Vercel to keep it live; otherwise it expires.
+- Hosted application: [FocusBoard on Vercel](https://instant-cedar-nucc77g.tmp.now) — temporary anonymous deployment. Claim it in Vercel to keep it live; otherwise it expires.
 - Public GitHub repository: [akashdumala/Focusboard](https://github.com/akashdumala/Focusboard).
 
 ## Limitations
 
 - Tasks are stored per browser and device; this app has no server synchronization or login.
-- Calendar, statistics, and settings navigation items are visual navigation affordances; the assignmentâ€™s required dashboard remains the implemented screen.
+- Calendar, statistics, and settings navigation items are visual navigation affordances; the assignment’s required dashboard remains the implemented screen.
 - The Google Fonts stylesheet uses DM Sans and Manrope when the browser has network access; system sans-serif fallbacks remain available offline.
 
 ## Screenshots
 
-Captured from the running app at the assignment reference sizes: desktop 1440 Ã— 1000, tablet 768 Ã— 1024, and mobile 390 Ã— 1128.
+Captured from the running app at the assignment reference sizes: desktop 1440 × 1000, tablet 768 × 1024, and mobile 390 × 1128.
 
 - Desktop: `screenshots/desktop.png`
 - Tablet: `screenshots/tablet.png`
 - Mobile: `screenshots/mobile.png`
-
